@@ -1,0 +1,15 @@
+#submit{
+    margin:20px;
+
+}
+#sort{
+    margin:20px;
+    display:none;
+}
+input{
+    margin:10px;
+}
+body{
+    background-color: aquamarine;
+    text-align: center;
+}
